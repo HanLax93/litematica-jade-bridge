@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "dev.litematicajade.bridge.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["JadeRayTracingMixin", "LitematicaOverlayMixin", "GuiBaseAccessor", "LitematicaMainMenuMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

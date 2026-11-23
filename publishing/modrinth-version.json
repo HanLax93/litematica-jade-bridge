@@ -1,0 +1,17 @@
+{
+  "name": "Litematica Jade Bridge 0.1.0 (Minecraft 26.3)",
+  "version_number": "0.1.0",
+  "version_type": "release",
+  "loaders": ["fabric"],
+  "game_versions": ["26.3"],
+  "featured": true,
+  "changelog": "Initial public release. Jade integration for Litematica schematic blocks, optional detailed information, Litematica settings menu, Chinese translations and bundled icon. Author: hanlax093.",
+  "dependencies": [
+    {"project_id": "nvQzSEkH", "dependency_type": "required"},
+    {"project_id": "bEpr0Arc", "dependency_type": "required"},
+    {"project_id": "GcWjdA9I", "dependency_type": "required"},
+    {"project_id": "P7dR8mSH", "dependency_type": "required"}
+  ],
+  "file_parts": ["file"],
+  "primary_file": "file"
+}

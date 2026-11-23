@@ -1,0 +1,15 @@
+.gradle/
+.gradle-user-home/
+.upstream/
+build/
+run/
+.idea/
+*.iml
+.agents/
+.codex/
+.aws/
+dist/
+.env
+.env.*
+artwork/icon-v1.png
+artwork/icon-grass-opaque.png
